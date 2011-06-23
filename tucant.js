@@ -1,7 +1,7 @@
 // Tucan logo replacement
 // version 0.1
 // 2011-06-23
-// Copyright (c) 2011, Tobias Böhm
+// Copyright (c) 2011, Tobias Boehm
 // Released under the GPL license
 // http://www.gnu.org/copyleft/gpl.html
 //
